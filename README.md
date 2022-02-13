@@ -7,11 +7,11 @@
 
 ## Installation
 
-####Download binary
+#### Download binary
 
 `wget https://github.com/ashissharma97/commandlinequiz/releases/download/1.0.0/commandlinequiz`
 
-####Change file permission
+#### Change file permission
 
 `chmod -x commandlinequiz`
 
