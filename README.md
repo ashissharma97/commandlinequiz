@@ -11,7 +11,7 @@
 
 #### Download binary
 
-`wget https://github.com/ashissharma97/commandlinequiz/releases/download/1.0.0/commandlinequiz-386-linux`
+`wget https://github.com/ashissharma97/commandlinequiz/releases/download/1.0.0/commandlinequiz-386-linux -O commandlinequiz`
 
 #### Change file permission
 
@@ -25,7 +25,7 @@
 
 #### Download binary
 
-`wget https://github.com/ashissharma97/commandlinequiz/releases/download/1.0.0/commandlinequiz-amd64-linux`
+`wget https://github.com/ashissharma97/commandlinequiz/releases/download/1.0.0/commandlinequiz-amd64-linux -O commandlinequiz`
 
 #### Change file permission
 
@@ -40,7 +40,7 @@
 
 #### Download binary
 
-`wget https://github.com/ashissharma97/commandlinequiz/releases/download/1.0.0/commandlinequiz-amd64-darwin`
+`wget https://github.com/ashissharma97/commandlinequiz/releases/download/1.0.0/commandlinequiz-amd64-darwin -O commandlinequiz`
 
 #### Change file permission
 

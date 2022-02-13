@@ -12,7 +12,7 @@ import (
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "playquiz",
+	Use:   "commandlinequiz",
 	Short: "A simple command line quiz game",
 	Long: `A command line game using you can play quiz in your terminal
 	whenever you get bored.`,
