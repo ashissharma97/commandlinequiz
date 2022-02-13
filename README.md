@@ -9,15 +9,15 @@
 
 ####Download binary
 
-`wget [link]`
+`wget https://github.com/ashissharma97/commandlinequiz/releases/download/1.0.0/commandlinequiz`
 
 ####Change file permission
 
-`chmod -x filename`
+`chmod -x commandlinequiz`
 
 #### Copy the file
 
-`mv filename /usr/local/bin`
+`mv commandlinequiz /usr/local/bin`
 
 ## Start
 
