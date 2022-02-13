@@ -13,7 +13,7 @@
 
 #### Change file permission
 
-`chmod -x commandlinequiz`
+`chmod +x commandlinequiz`
 
 #### Copy the file
 
